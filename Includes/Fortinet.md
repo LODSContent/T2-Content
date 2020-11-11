@@ -7,4 +7,9 @@
 	1. If you do not, click "+ Add a language" and then select your language. 
 1. If your language was not originally listed, return to the desktop, select DEU in the taskbar and then select your language.
 
+>[!alert] On the following page, login to VitalSource Bookshelf to access the course materials.
+
+### Select **Next** to continue
+===
+
 <iframe src="https://bookshelf.vitalsource.com/" style="Width:100%;height:78vh"></iframe>
