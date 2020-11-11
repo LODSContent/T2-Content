@@ -3,7 +3,7 @@
 > 1. Once logged in, open file explorer and go to +++C:\scripts+++.
 > 1. Double click the **changes** executable and follow the prompts.
 
->[!alert] On the following page, login to Skillpipe to access the course materials.
+>[!alert] On the following page, login to Kortext to access the course materials.
 
 ### Select **Next** to continue
 ===
