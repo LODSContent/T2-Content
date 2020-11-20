@@ -6,6 +6,7 @@
 >[!alert] On the following page, login to Kortext to access the course materials.
 
 ### Select **Next** to continue
+
 ===
 
-<iframe src="https://app.kortext.com/ " style="Width:100%;height:78vh"></iframe> 
+<iframe src="https://app.kortext.com/ " style="Width:100%;height:78vh"></iframe>
