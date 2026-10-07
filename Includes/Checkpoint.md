@@ -11,5 +11,3 @@
 ### Select **Next** to continue
 
 ===
-
-<iframe src="https://app.kortext.com/ " style="Width:100%;height:78vh"></iframe>
